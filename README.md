@@ -12,7 +12,7 @@
 
 ### Levadura's Pastry
 
->Pasteles sublimes para gustos finos
+>"Pasteles sublimes para gustos finos"
 
 ![image](./images/LevaduraLogo.png)
 
@@ -26,7 +26,7 @@ Al hacer un pequeño análisis se crearon dos daigramas de caso de uso para ente
 #### Pastry system/Baker
 ![image](./mockup/ucPantrycooker.png)
 
-#### MocukUps :sunny:
+#### MockUps :sunny:
 
 Para esta parte me apoye de la siguiente herramienta:
 - Balsamic mockups (https://balsamiq.com/wireframes/)
